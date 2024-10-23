@@ -37,7 +37,7 @@ fun ScaffoldLayout() {
             FloatingActionButton(
                 containerColor = Color.Magenta,
                 shape = CircleShape,
-                onClick = { /*TODO*/ }
+                onClick = { }
             ) {
                 Text(
                     text = "+",
